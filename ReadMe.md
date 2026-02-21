@@ -10,13 +10,14 @@ Logs timestamped readings to a CSV file.
 
 ## Author
 Matt Foord
+
 Computer Science Student
 
 ## Technologies Used
 - Python
 - gpiozero
 - matplotlib
-- linux (debian)
+- linux (Pi OS - debian)
 
 ## Installs required packages
 
