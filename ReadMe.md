@@ -23,9 +23,9 @@ Computer Science Student
 ```bash
 sudo apt install python3-gpiozero python3-matplotlib
 
-## How to run the program  
+#How to run the program  
 
 python3 cpu_temp.py
 
-Press 'q' in the plot window to stop the program.
+#Press 'q' in the plot window to stop the program.
 
