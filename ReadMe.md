@@ -12,7 +12,7 @@ Logs timestamped readings to a CSV file.
 Matt Foord
 Computer Science Student
 
-##Technologies Used
+## Technologies Used
 - Python
 - gpiozero
 - matplotlib
