@@ -7,7 +7,6 @@ x = []
 y = []
 
 cpu = CPUTemperature()
-# type cpu.temperature in terminal to get a temp in C
 
 stop_program = False
 
